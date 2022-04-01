@@ -1,2 +1,3 @@
-# VrDirectorTask
- Unreal engine 4 environnement for HTC VIVE and Director Task
+# DTv0.2
+
+Developed with Unreal Engine 4
